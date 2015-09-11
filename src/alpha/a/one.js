@@ -1,0 +1,1 @@
+console.log('Module alpha.a.one has been loaded');module.exports = "alpha.a.one";

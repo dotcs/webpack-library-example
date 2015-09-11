@@ -1,0 +1,11 @@
+{
+  "name": "webpack-library-example",
+  "version": "0.0.0",
+  "description": "Example of a UMD library built with webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Mueller (Twitter: @dotcsDE)",
+  "license": "MIT"
+}
